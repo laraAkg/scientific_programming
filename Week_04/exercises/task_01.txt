@@ -6,11 +6,11 @@
 	
 2.) Use ChatGPT / Copilot to create own examples for the following file formats, 
     and try to read and write these files using Python:
-	- CSV
-	- TXT
-	- JSON
-	- XML
-	- HTML
-	- ZIP
-	- XLSX
-	- Image files (e.g. JPEG)
+	- CSV -> done
+	- TXT -> done
+	- JSON -> done
+	- XML -> done
+	- HTML -> done
+	- ZIP -> done
+	- XLSX -> done
+	- Image files (e.g. JPEG) -> done
